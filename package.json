@@ -1,0 +1,24 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "A collection of algorithms (based on Grokking algorithms by Aditya Bhargava) written with TypeScritp, mostly for practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nesterovad/algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nesterovad/algorithms/issues"
+  },
+  "homepage": "https://github.com/nesterovad/algorithms#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jsdoc": "^4.0.2"
+  }
+}
